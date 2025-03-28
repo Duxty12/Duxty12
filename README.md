@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+This is Duxty.
+- 🌱 I’m currently learning the java language.
+- 🔭 I’m currently working on making simple games to strengthen my foundation.
 <!--
 **Duxty12/Duxty12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
